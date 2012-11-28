@@ -20,6 +20,7 @@ import java.io.*;
 public class ChainedWordCount {
 
 	/**
+	 * Developed by Jayanta Dutta
 	 * This hadoop map reduce program reads file from input folder
 	 * Each line has two fields name and quote separated by tab
 	 * This program generates a output file where each line will show
